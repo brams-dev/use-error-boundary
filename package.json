@@ -1,0 +1,22 @@
+{
+	"name": "use-error-boundary-hook",
+	"version": "1.0.0",
+	"description": "A React hook that allows you to use an error boundary in functional components",
+	"main": "src/index.js",
+	"dependencies": {
+		"react": "^16.13.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"react",
+		"hook",
+		"error",
+		"boundary",
+		"boundaries"
+	],
+	"author": "Bram S.",
+	"license": "MIT"
+}

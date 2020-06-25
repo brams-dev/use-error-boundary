@@ -1,7 +1,7 @@
 # use-error-boundary-hook
 
-[![npm version](https://img.shields.io/npm/v/use-error-boundary.svg)](https://www.npmjs.com/package/use-error-boundary)
-![license](https://img.shields.io/npm/l/use-error-boundary.svg)
+[![npm version](https://img.shields.io/npm/v/use-error-boundary-hook.svg)](https://www.npmjs.com/package/use-error-boundary-hook)
+![license](https://img.shields.io/npm/l/use-error-boundary-hook.svg)
 
 
 A React hook that allows you to use an error boundary in functional components.

@@ -1,6 +1,6 @@
 {
 	"name": "use-error-boundary-hook",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A React hook that allows you to use an error boundary in functional components",
 	"main": "build/index.js",
 	"dependencies": {
